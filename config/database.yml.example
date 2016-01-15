@@ -3,7 +3,7 @@ development:
   encoding: utf8
   reconnect: false
   pool: 5
-  database: base_app_dev
+  database: vegemit_dev
   username: username
   password: password
 
@@ -12,6 +12,6 @@ test:
   encoding: utf8
   reconnect: false
   pool: 5
-  database: base_app_test
+  database: vegemit_test
   username: username
   password: password
